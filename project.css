@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    margin: auto;
+    padding-left: 150px;
+}
+
+header{
+    padding-left: 140px;
+}
+
+#first-image{
+    width: 600px;
+    top: 120px;
+    left: 100px;
+    border-radius: 4px;
+}
+
+#second-img{
+    width: 608px;
+    top: 655px;
+    left: 732px;
+    border-radius: 4px;
+}
+
+#third-img{
+    width: 608px;
+    top: 1190px;
+    left: 100px;
+    border-radius: 4px;
+}
+
